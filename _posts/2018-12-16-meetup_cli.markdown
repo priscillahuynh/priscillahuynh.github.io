@@ -31,15 +31,19 @@ After selecting and viewing the meetup group details, the program then provides 
 ### Things I've Learned
 
 **Patience & Persistence**
+
 I felt so lost when I initially started this project. But several video tutorials and google searches later, I slowly started putting the pieces together. Instead of being frustrated with myself for not understanding something, I gave myself the time and opportunity to dive deeper into topics that didn't quite sink in initially.
 
 **Binding.pry**
+
 I had never fully understood how to use pry up until this assignment. I would watch several video tutorials and read documentation but nothing and no one has given me more clarity on the topic than this project. Learning how to use it made coding this CLI so much more fun! 
 
 **Github Practice**
+
 Just like pry, I developed a much greater understanding of how to interact with GitHub through this assignment.
 
 **Understanding the working environment**
+
 Honestly it sounds simple.....and it is, but prior to this project I had practically zero understanding of what files go where and which one does what. I just see it as taking another baby step in the right direction. There's a long road ahead but these small wins are what will help me reach that final goal! 
 
 Being able to complete this project has been an incredibly uplifting and motivating experience. All of the lessons and topics that seemed fuzzy and unclear to me up until this point quickly began to make sense as I worked my way through this assignment.  While it is far from perfect, I am just really proud to have created my first fully functioning CLI from scratch. Looking forward to the projects lie ahead!
