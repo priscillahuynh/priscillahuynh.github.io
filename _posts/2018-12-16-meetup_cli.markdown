@@ -36,6 +36,9 @@ I felt so lost when I initially started this project. But several video tutorial
 ##### Binding.pry
 I had never fully understood how to use pry up until this assignment. I would watch several video tutorials and read documentation but nothing and no one has given me more clarity on the topic than this project. Learning how to use it made coding this CLI so much more fun! 
 
+##### Github Practice
+Just like pry, I developed a much greater understanding of how to interact with GitHub through this assignment.
+
 ##### Understanding the working environment
 Honestly it sounds simple.....and it is, but prior to this project I had practically zero understanding of what files go where and which one does what. I just see it as taking another baby step in the right direction. There's a long road ahead but these small wins are what will help me reach that final goal! 
 
